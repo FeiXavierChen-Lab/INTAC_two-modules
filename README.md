@@ -1,4 +1,4 @@
-# INTAC endonuclease and phosphatase modules have distinct roles in transcription
+# INTAC endonuclease and phosphatase modules differentially regulate transcription by RNA polymerase II
 
 Primary sequencing data and BigWig files are deposited at the GEO depository: GSE223265.
 
